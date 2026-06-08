@@ -1,4 +1,4 @@
-<h1>⚛️ React Job Cards</h1>
+<h1>React Job Cards</h1>
 
 <p>
 A mini React project built using <strong>React</strong> and <strong>Vite</strong> to practice working with props and reusable components.
@@ -6,13 +6,13 @@ The application displays job listing cards dynamically using data passed through
 </p>
 
 
-<h2>📸 Preview</h2>
+<h2>Preview</h2>
 
 <p>
 <img src="src/assets/preview.png" alt="React Job Cards Preview" width="100%">
 </p>
 
-<h2>🚀 Features</h2>
+<h2> Features</h2>
 
 <ul>
     <li>Reusable React components</li>
@@ -22,7 +22,7 @@ The application displays job listing cards dynamically using data passed through
     <li>Built with React and Vite</li>
 </ul>
 
-<h2>🛠 Technologies Used</h2>
+<h2>Technologies Used</h2>
 
 <ul>
     <li>React</li>
@@ -31,7 +31,7 @@ The application displays job listing cards dynamically using data passed through
     <li>CSS3</li>
 </ul>
 
-<h2>📚 Concepts Practiced</h2>
+<h2>Concepts Practiced</h2>
 
 <ul>
     <li>Props</li>
@@ -41,7 +41,7 @@ The application displays job listing cards dynamically using data passed through
     <li>React Project Structure</li>
 </ul>
 
-<h2>📂 Project Structure</h2>
+<h2>Project Structure</h2>
 
 <pre>
 src/
@@ -52,7 +52,7 @@ src/
 └── index.css
 </pre>
 
-<h2>🧠 What I Learned</h2>
+<h2>What I Learned</h2>
 
 <ul>
     <li>Passing data through props</li>
@@ -61,9 +61,3 @@ src/
     <li>Rendering dynamic UI content</li>
 </ul>
 
-<h2>👤 Author</h2>
-
-<p>
-<strong>Areeb Baig</strong><br>
-GitHub: https://github.com/areebbaig580
-</p>
