@@ -1,0 +1,125 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    max-width: 100%;
+    color: black;
+}
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(237, 237, 237);
+  color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-wrapper{
+    min-height: 100vh;
+    width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card{
+    min-height: 45vh;
+    width: 300px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 1rem;
+    padding-top: 1rem;
+    position: relative;
+}
+.card-top{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem;
+}
+.card img{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  object-fit: contain;
+  background-color: #fff;
+  border: 1px solid #cecece;
+}
+.save-box{
+    height: fit-content;
+    width: 60px;
+    border: 1px solid #cecece;
+    padding: 2px;
+    text-align: center;
+    border-radius: 5px;
+}
+.save-box:hover{
+    cursor: pointer;
+}
+.card-mid{
+    padding: 1rem;
+}
+.mid1{
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+}
+.company-name{
+    font-size: 1rem;
+    font-weight: 600;
+}
+.days-ago{
+    color: #575757;
+    font-size: 0.9rem;
+}
+.mid2{
+    margin-top: 0.8rem;
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+.mid3{
+    display: flex;
+    gap: 1rem;
+    margin-top: 0.8rem;
+}
+.job-info{
+    padding: 0.2rem 0.8rem;
+    background-color: #f1f1f1;
+
+}
+.card-btm{
+    display: flex;
+    width: 90%;
+    position: absolute;
+    bottom: 0.5rem;
+    margin: 1rem;
+    justify-content: space-between;
+    padding-top: 0.8rem;
+    padding-right: 0.5rem ;
+    border-top: 1px solid #eaeaea;
+}
+.pay{
+    font-weight: 600;
+}
+.place{
+    color: #575757;
+    font-size: 0.9rem;
+}
+.apply-btn{
+    height: fit-content;
+    text-align: center;
+    padding: 0.4rem 0.7rem;
+    border-radius: 6px ;
+    background-color: #0e0e0e;
+    color: #eeeeee;
+    font-size: 0.9rem;
+}
+.apply-btn:hover{
+    cursor: pointer;
+}
