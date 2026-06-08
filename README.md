@@ -1,16 +1,69 @@
-# React + Vite
+<h1>⚛️ React Job Cards</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>
+A mini React project built using <strong>React</strong> and <strong>Vite</strong> to practice working with props and reusable components.
+The application displays job listing cards dynamically using data passed through props.
+</p>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<h2>📸 Preview</h2>
 
-## React Compiler
+<p>
+<img src="src/assets/preview.png" alt="React Job Cards Preview" width="100%">
+</p>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<h2>🚀 Features</h2>
 
-## Expanding the ESLint configuration
+<ul>
+    <li>Reusable React components</li>
+    <li>Props-based data rendering</li>
+    <li>Dynamic job listing cards</li>
+    <li>Clean card-based UI layout</li>
+    <li>Built with React and Vite</li>
+</ul>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h2>🛠 Technologies Used</h2>
+
+<ul>
+    <li>React</li>
+    <li>Vite</li>
+    <li>JavaScript (ES6+)</li>
+    <li>CSS3</li>
+</ul>
+
+<h2>📚 Concepts Practiced</h2>
+
+<ul>
+    <li>Props</li>
+    <li>Component Reusability</li>
+    <li>JSX</li>
+    <li>Data-driven UI Rendering</li>
+    <li>React Project Structure</li>
+</ul>
+
+<h2>📂 Project Structure</h2>
+
+<pre>
+src/
+├── components/
+│   └── card.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+</pre>
+
+<h2>🧠 What I Learned</h2>
+
+<ul>
+    <li>Passing data through props</li>
+    <li>Creating reusable React components</li>
+    <li>Organizing React projects</li>
+    <li>Rendering dynamic UI content</li>
+</ul>
+
+<h2>👤 Author</h2>
+
+<p>
+<strong>Areeb Baig</strong><br>
+GitHub: https://github.com/areebbaig580
+</p>
